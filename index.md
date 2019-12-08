@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/oguzayy/main/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can reach my [LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-ay-7b01b022/) profile.
 
 ```markdown
 Syntax highlighted code block
