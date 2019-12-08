@@ -6,7 +6,7 @@ I am graduated from Industrial Engineering in Koç University. I have completed 
 
 I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years now. I am working in investment banking, the main products we work for are investment products like equities, mutual funds, treasury bonds, etc.
 
-You can reach my [LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-ay-7b01b022/) profile. ![Linkedin](linked.png)
+You can reach my [LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-ay-7b01b022/) profile. ![Linkedin](linkedin.png)
 
 ```markdown
 Syntax highlighted code block
