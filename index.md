@@ -1,6 +1,10 @@
-## Welcome to my GitHub Page
+# Welcome to my GitHub Page
 
-### About Me
+## About Me
+
+I am graduated from Industrial Engineering in Koç University. I have completed Financial Engineering and Risk Management Master's program in Özyeğin University. Now i am Big Data Analytics Master's program student who will graduate in 2020.
+
+I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years now. I am working in investment banking, the main products we work for are investment products like equities, mutual funds, treasury bonds, etc.
 
 You can reach my [LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-ay-7b01b022/) profile.
 
