@@ -8,7 +8,7 @@ I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years 
 
 <img src="linkedin.png" width="48"> You can reach my [LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-ay-7b01b022/) profile.
 
-<img src="CV.jpeg" width="48"> You can view my CV.
+<img src="CV.jpg" width="48"> You can view my CV.
 
 ```markdown
 Syntax highlighted code block
