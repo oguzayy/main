@@ -10,6 +10,8 @@ I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years 
 
 <img src="cv.png" width="40"> You can view my [CV](OguzAy-CV.pdf).
 
+<img src="mail.jpg" width="40"> oguzay@msn.com
+
 ```markdown
 Syntax highlighted code block
 
