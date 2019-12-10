@@ -16,7 +16,7 @@ I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years 
 
 ## Analysis
 
-<img src="r.png" width="48"> You can see some of my works with R language here.
+<img src="r.png" width="48"> [You can see some of my works with R language here.](https://oguzayy.github.io/r/)
 
 <img src="python.png" width="48"> You can see some of my works with Python language here.
 
