@@ -23,6 +23,8 @@ I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years 
 
 
 
+
+
 ```markdown
 Syntax highlighted code block
 
