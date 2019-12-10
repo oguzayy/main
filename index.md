@@ -13,6 +13,7 @@ I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years 
 <img src="mail.jpg" width="48"> oguzay@msn.com
 
 
+
 ## Analysis
 
 <img src="r.png" width="48"> You can see some of my works with R language here.
