@@ -19,6 +19,10 @@ I have been working in Garanti BBVA Teknoloji as a business analyst for 8 years 
 
 <img src="python.png" width="48"> You can see some of my works with Python language here.
 
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
