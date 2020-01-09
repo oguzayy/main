@@ -1,4 +1,4 @@
-# <img src="GitHub.png" width="48">Welcome to my GitHub Page
+# <img src="GitHub.png" width="48"> Welcome to my GitHub Page
 
 ## About Me
 
